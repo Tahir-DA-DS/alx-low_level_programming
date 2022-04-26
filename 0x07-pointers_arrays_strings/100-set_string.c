@@ -11,6 +11,3 @@ void set_string(char **s, char *to)
 {
 	*s = to;
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
