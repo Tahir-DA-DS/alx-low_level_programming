@@ -12,8 +12,4 @@ void _print_rev_recursion(char *s)
 		_putchar(*s);
 	}
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
+
